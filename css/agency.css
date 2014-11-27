@@ -790,6 +790,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
     text-align: left;
+    font-size: 18px;
 }
 
 .portfolio-modal .modal-content h2+p {
@@ -799,13 +800,14 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+    text-align: left;
 }
 
 .portfolio-modal .modal-content img {
