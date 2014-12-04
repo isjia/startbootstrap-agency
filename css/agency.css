@@ -830,6 +830,10 @@ ul.social-buttons li a:active {
     font-size: 18px;
 }
 
+.portfolio-modal .modal-content .modal-body li {
+    margin: 15px 0;
+}
+
 .portfolio-modal .close-modal:hover {
     opacity: .3;
 }
