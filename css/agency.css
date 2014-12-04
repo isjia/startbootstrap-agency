@@ -824,6 +824,12 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
+.portfolio-modal .modal-content .modal-body ul, 
+.portfolio-modal .modal-content .modal-body ol{
+    text-align: left;
+    font-size: 18px;
+}
+
 .portfolio-modal .close-modal:hover {
     opacity: .3;
 }
